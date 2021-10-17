@@ -7,4 +7,4 @@ Hello, I'm Edouard, I'm 27! 👋
 - 📫 Find me on LinkedIn: https://www.linkedin.com/in/edouard-bernard/
 
 ### Check my video pitch by clicking on this image:
-[![IMAGE ALT TEXT](https://i.ytimg.com/vi/1Nttgjv-bOU/hqdefault.jpg)](https://www.youtube.com/watch?v=1Nttgjv-bOU)
+[![IMAGE ALT TEXT](https://i.ytimg.com/vi/1Nttgjv-bOU/maxresdefault.jpg)](https://www.youtube.com/watch?v=1Nttgjv-bOU)
